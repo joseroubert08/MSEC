@@ -50,13 +50,13 @@
 	<dependency>
 		<groupId>commons-collections</groupId>
 		<artifactId>commons-collections</artifactId>
-		<version>3.1</version>
+		<version>3.2.2</version>
 	</dependency>
 
 	<dependency>  
 		<groupId>commons-beanutils</groupId>  
 		<artifactId>commons-beanutils</artifactId>  
-		<version>1.7.0</version>  
+		<version>1.9.2</version>  
 	</dependency>
 
     <dependency>  
@@ -74,7 +74,7 @@
     <dependency>  
 		<groupId>mysql</groupId>  
 		<artifactId>mysql-connector-java</artifactId>  
-		<version>5.1.25</version>  
+		<version>5.1.42</version>  
     </dependency>
 </dependencies>
 
